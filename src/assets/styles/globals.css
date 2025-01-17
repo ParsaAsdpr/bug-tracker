@@ -1,0 +1,9 @@
+@import url("https://fonts.cdnfonts.com/css/iranyekan");
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: "IRANYekan", tahoma, sans-serif;
+  color: rgb(var(--foreground-rgb));
+}
